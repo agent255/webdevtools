@@ -2,8 +2,13 @@ body {
   background-color: #BCB6FF;
   text-align: center;
   margin: 0px;
+  font-family: 'Zilla Slab', serif;
+
   
   }
 #footer {
   background-color: #D81E5B;
+}
+.title {
+  font-family: 'Berkshire Swash', cursive;
 }
